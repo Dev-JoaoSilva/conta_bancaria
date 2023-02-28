@@ -4,7 +4,7 @@ public class Programa {
         minhaConta = new Conta();
         minhaConta.numero=1;
         minhaConta.titular="Isaque Katahira";
-        minhaConta.saldo="7632"
+        minhaConta.saldo=7632;
 
         Conta minhaConta2;
         minhaConta.saldo=673;
